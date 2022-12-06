@@ -1,0 +1,47 @@
+Lab 1
+
+Q1
+/users/guest/t/tbday
+
+Q2
+/users/guest/t/tbday/cs224
+
+Q3
+There are no subdirectories in f1
+
+Q4
+7
+Bashful.txt  Doc.txt  Dopey.txt  Grumpy.txt  Happy.txt	Sleepy.txt  Sneezy.txt
+
+
+Q5
+5
+bears  house  beds  bowls  chairs
+
+
+Q6
+13
+Goldilocks.txt 
+BabyBear.txt  MamaBear.txt  PapaBear.txt
+JustRight.txt  TooHard.txt  TooSoft.txt
+JustRight.txt  TooCold.txt  TooHot.txt
+JustRight.txt  TooHard.txt  TooSoft.txt
+
+
+Q7
+cp Goldilocks.txt house/beds
+
+Q8
+rm house/beds/JustRight.txt
+
+Q9
+mv Theseus.txt Right/Right/Left
+
+Q10
+/users/guest/t/tbday/cs224/byu-cs-224-labs/1-Linux-Systems/Lab1/f3/Right/Right/Left
+
+Q11
+My name is Tanner Day
+The first number is 270
+The second number is 289
+The result is 224
